@@ -1,6 +1,9 @@
 # system files
 ./__MACOSX/
-./__pycache__
+./__pycache__/
 
 # data dir
 data/
+
+# log
+runs/
