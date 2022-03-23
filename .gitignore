@@ -1,6 +1,7 @@
 # system files
 ./__MACOSX/
 ./__pycache__/
+./.ipynb_checkpoints/
 
 # data dir
 data/
