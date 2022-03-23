@@ -1,0 +1,8 @@
+{
+  "base": {
+    "input_size": 65,
+    "hidden_size": 256,
+    "num_layers": 2,
+    "num_classes": 12
+  }
+}
